@@ -4,31 +4,31 @@
 
 Setiap wilayah di Indonesia memiliki banyak sekali sumber daya alam termasuk produksi ikan,salah satunya adalah ikan laut. Dari sumber daya alam tersebut banyak para nelayan menjadikan hal tersebut sebagai salah satu pekerjaan mereka yaitu menangkap ikan. [1] Perdagangan dalam sektor perikanan yang mengalami ekspor tanpa mengetahui batasan dari nilai yang di ekspor terhadap barang yang di ekspor akan mengalami masalah dalam jumlah nilai. Seperti penelitian sebelumnya [2] pada daerah ternate. Namun, pada kasus ini ingin mengangkat topik tentang  _clustering_ hasil ekspor ikan di kabupaten saya Situbondo, dengan mengekspor jumlah ikan keluar kabupaten Situbondo tanpa adanya pengelompokan dari jumlah yang di ekspor, dengan metode _clustering_ sehingga menjadi _clustering_ Melimpah, _clustering_ Cukup, _clustering_ kurang pada proyek kali ini saya akan membuat _clustering_ berdasarkan jenis ikan yang di ekspor pada tahun 2017.
  
-## Business Understanding
+## _Business Understanding_
 
 Dengan adanya pengklasifikasian pada jenis hasil laut yang di ekspor keluar Kabupaten Situbondo, maka beberapa hal yang dapat terbantu mulai dari pengelompokkan terhadap jenis ikan, volume ikan, dan harga ikan.
 
-### Problem Statements
+### _Problem Statements_
 
 Menjelaskan pernyataan masalah latar belakang:
 - Belum mengetahui hasil jenis ikan terbanyak pada tahun 2017 berdasarkan kelompok melimpah
 - Belum mengetahui hasil jenis ikan terbanyak pada tahun 2017 berdasarkan kelompok kurang
-- Supaya dapat menyeimbangkan hasil di tahun berikutnya untuk meningkatkan pendapatan daerah
+- Supaya dapat menyeimbangkan hasil ditahun berikutnya untuk meningkatkan pendapatan daerah
 
-### Goals
+### _Goals_
 
 Menjelaskan tujuan dari pernyataan masalah:
-- Untuk mengetahui hasil ekspor jenis ikan yang masuk kluster melimpah pada tahun 2017
-- Untuk mengetahui hasil ekspor jenis ikan yang masuk kluster kurang pada tahun 2017
+- Untuk mengetahui hasil ekspor jenis ikan yang masuk _cluster_ melimpah pada tahun 2017
+- Untuk mengetahui hasil ekspor jenis ikan yang masuk _cluster_ kurang pada tahun 2017
 - Untuk menyeimbangkan hasil ekspor pada tahun-tahun berikutnya untuk meningkatkan pendapatan daerah
 
 
-### Solution statements
-- Untuk menyelesaikan permalasahalan tersebut penulis menggunakan Algoritma Clustering yang dibantu dengan Algoritma Euclidean Distance menggunakan _native_ di python
+### _Solution Statements_
+- Untuk menyelesaikan permasalahan tersebut penulis menggunakan Algoritma Clustering yang dibantu dengan Algoritma Euclidean Distance menggunakan _native_ di python
 - Mendapatkan hasil dari _clustering_ sehingga dapat mengelompokkan jenis jenis ikan
-- Evaluasi Metrik yang digunakan adalah dengan memberi batasan antara kluster melimpah, kluster cukup, dan kluster kurang. Berdasarkan tuning dari pengklasifikasian 3 kelompok
+- Evaluasi Metrik yang digunakan adalah dengan memberi batasan antara _cluster_ melimpah, _cluster_ cukup, dan _cluster_ kurang. Berdasarkan _tuning_ dari pengklasifikasian 3 kelompok
 
-## Data Understanding
+## _Data Understanding_
 Dataset yang digunakan dalam kasus ini berasalah dari sumber terpercaya skala nasional, yaitu BPPS Indonesia[3].
 
 ### Variabel-variabel pada Data Ekspor Ikan 2017 Situbondo dataset adalah sebagai berikut:
@@ -36,12 +36,8 @@ Dataset yang digunakan dalam kasus ini berasalah dari sumber terpercaya skala na
 - TON : Merupakan total dari bobot yang di ekspor berdasarkan jenis ikan pada tahun 2017
 - RP (OOO) : Merupakan harga jual yang di dapat dari hasil ekspor pada tahun 2017
 
-**Rubrik/Kriteria Tambahan Tahapan Data (Opsional)**:
-- Import Data
-- Bersihkan data yang memiliki nilai null
-- Visualisasikan menggunakan matplotlib.pyplot berdasarkan harga ikan dan ton
-- Didapat visualisasi dari kelompok yang dibedakan berdasarkan warna
-- Membuat tabel dari hasil clustering
+### Pengelolaan Clustering
+Pada data akan ditampilkan clustering berdasarkan banyaknya ikan yang di ekspor dan hasil penjualan ikan tersebut. dari 2 variable itulah (TON, RP (000)) akan didapatkan clustering pada tahun 2017
 
 ## Data Preparation
 Pada bagian ini Anda menerapkan dan menyebutkan teknik data preparation yang dilakukan. Teknik yang digunakan pada notebook dan laporan harus berurutan.
