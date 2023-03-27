@@ -16,8 +16,6 @@ Menjelaskan pernyataan masalah latar belakang:
 - Supaya dapat menyeimbangkan hasil ditahun berikutnya untuk meningkatkan pendapatan daerah
 
 
-
-
 ### _Goals_
 
 Menjelaskan tujuan dari pernyataan masalah:
@@ -26,10 +24,8 @@ Menjelaskan tujuan dari pernyataan masalah:
 - Untuk menyeimbangkan hasil ekspor pada tahun-tahun berikutnya untuk meningkatkan pendapatan daerah
 
 
-### _Solution Statements_
-- Untuk menyelesaikan permasalahan tersebut penulis menggunakan Algoritma Clustering yang dibantu dengan Algoritma Euclidean Distance menggunakan _native_ di python
-- Mendapatkan hasil dari _clustering_ sehingga dapat mengelompokkan jenis jenis ikan
-- Evaluasi Metrik yang digunakan adalah dengan memberi batasan antara _cluster_ melimpah, _cluster_ cukup, dan _cluster_ kurang. Berdasarkan _tuning_ dari pengklasifikasian 3 kelompok
+
+
 
 ## _Data Understanding_
 Dataset yang digunakan dalam kasus ini berasalah dari sumber terpercaya skala nasional, yaitu BPPS Indonesia[3].
