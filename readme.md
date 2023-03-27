@@ -4,7 +4,9 @@
 
 Setiap wilayah di Indonesia memiliki banyak sekali sumber daya alam termasuk produksi ikan,salah satunya adalah ikan laut. Dari sumber daya alam tersebut banyak para nelayan menjadikan hal tersebut sebagai salah satu pekerjaan mereka yaitu menangkap ikan. [1] Perdagangan dalam sektor perikanan yang mengalami ekspor tanpa mengetahui batasan dari nilai yang di ekspor terhadap barang yang di ekspor akan mengalami masalah dalam jumlah nilai. Seperti penelitian sebelumnya [2] pada daerah ternate. Namun, pada kasus ini ingin mengangkat topik tentang  _clustering_ hasil ekspor ikan di kabupaten saya Situbondo, dengan mengekspor jumlah ikan keluar kabupaten Situbondo tanpa adanya pengelompokan dari jumlah yang di ekspor, dengan metode _clustering_ sehingga menjadi _clustering_ Melimpah, _clustering_ Cukup, _clustering_ kurang pada proyek kali ini saya akan membuat _clustering_ berdasarkan jenis ikan yang di ekspor pada tahun 2017.
 
+## _Business Understanding_
 
+Dengan adanya pengklasifikasian pada jenis hasil laut yang di ekspor keluar Kabupaten Situbondo, maka beberapa hal yang dapat terbantu mulai dari pengelompokkan terhadap jenis ikan, volume ikan, dan harga ikan.
  
 
 
