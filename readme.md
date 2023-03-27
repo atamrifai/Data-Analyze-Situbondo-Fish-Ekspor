@@ -30,13 +30,7 @@ Menjelaskan tujuan dari pernyataan masalah:
 
 
 
-## _Data Understanding_
-Dataset yang digunakan dalam kasus ini berasalah dari sumber terpercaya skala nasional, yaitu BPPS Indonesia[3].
 
-### Variabel-variabel pada Data Ekspor Ikan 2017 Situbondo dataset adalah sebagai berikut:
-- Jenis Ikan : Merupakan ragam jenis ikan yang berhasil di ekspor pada tahun 2017.
-- TON : Merupakan total dari bobot yang di ekspor berdasarkan jenis ikan pada tahun 2017
-- RP (OOO) : Merupakan harga jual yang di dapat dari hasil ekspor pada tahun 2017
 
 ### Pengelolaan Clustering
 Pada data akan ditampilkan clustering berdasarkan banyaknya ikan yang di ekspor dan hasil penjualan ikan tersebut. dari 2 variable itulah (TON, RP (000)) akan didapatkan clustering pada tahun 2017
