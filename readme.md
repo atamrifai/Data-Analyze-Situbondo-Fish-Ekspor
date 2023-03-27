@@ -10,12 +10,7 @@ Dengan adanya pengklasifikasian pada jenis hasil laut yang di ekspor keluar Kabu
  
 
 
-### _Problem Statements_
 
-Menjelaskan pernyataan masalah latar belakang:
-- Belum mengetahui hasil jenis ikan terbanyak pada tahun 2017 berdasarkan kelompok melimpah
-- Belum mengetahui hasil jenis ikan terbanyak pada tahun 2017 berdasarkan kelompok kurang
-- Supaya dapat menyeimbangkan hasil ditahun berikutnya untuk meningkatkan pendapatan daerah
 
 ### _Goals_
 
