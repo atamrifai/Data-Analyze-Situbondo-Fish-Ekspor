@@ -129,7 +129,12 @@ Sebagai contoh, Anda memiih kasus klasifikasi dan menggunakan metrik menggunakan
 24       Kepiting     1.0
 ```
 
+## References
+[1] Muhammad Y Rizki, Fira Fania, Agus P Windarto, 2017 "IMPLEMENTASI K-MEANS CLUSTERING DALAM MENGELOMPOKKAN JUMLAH PENJUALAN IKAN LAUT DI TPI MENURUT WILAYAH". JIKO (Jurnal Informatika dan Komputer) Vol. 3, No. 2, Agustus 2020, hlm. 69-74
 
+[2] R. J. Hablum., A. Khairan dan R. Rosihan., 2019., “Clustering Hasil Tangkap Ikan Di Pelabuhan Perikanan Nusantara (PPN) Ternate Menggunakan Algoritma K-Means,” JIKO (Jurnal Informatika dan Komputer)., vol. 2, no. 1, pp. 26-33
+
+[3] BPPS Statistik. diakses pada 08/08/2022. https://situbondokab.bps.go.id/statictable/2017/06/02/485/produksi-dan-nilai-perikanan-tangkap-menurut-jenis-ikan-di-kabupaten-situbondo-2015---2016.html
 
 
 
