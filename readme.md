@@ -8,6 +8,12 @@ Setiap wilayah di Indonesia memiliki banyak sekali sumber daya alam termasuk pro
 
 Dengan adanya pengklasifikasian pada jenis hasil laut yang di ekspor keluar Kabupaten Situbondo, maka beberapa hal yang dapat terbantu mulai dari pengelompokkan terhadap jenis ikan, volume ikan, dan harga ikan.
  
+ ### _Problem Statements_
+
+Menjelaskan pernyataan masalah latar belakang:
+- Belum mengetahui hasil jenis ikan terbanyak pada tahun 2017 berdasarkan kelompok melimpah
+- Belum mengetahui hasil jenis ikan terbanyak pada tahun 2017 berdasarkan kelompok kurang
+- Supaya dapat menyeimbangkan hasil ditahun berikutnya untuk meningkatkan pendapatan daerah
 
 
 
