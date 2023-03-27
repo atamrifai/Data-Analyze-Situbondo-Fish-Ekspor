@@ -6,9 +6,7 @@ Setiap wilayah di Indonesia memiliki banyak sekali sumber daya alam termasuk pro
 
 
  
-## _Business Understanding_
 
-Dengan adanya pengklasifikasian pada jenis hasil laut yang di ekspor keluar Kabupaten Situbondo, maka beberapa hal yang dapat terbantu mulai dari pengelompokkan terhadap jenis ikan, volume ikan, dan harga ikan.
 
 ### _Problem Statements_
 
