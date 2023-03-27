@@ -23,7 +23,10 @@ Menjelaskan tujuan dari pernyataan masalah:
 - Untuk mengetahui hasil ekspor jenis ikan yang masuk _cluster_ kurang pada tahun 2017
 - Untuk menyeimbangkan hasil ekspor pada tahun-tahun berikutnya untuk meningkatkan pendapatan daerah
 
-
+### _Solution Statements_
+- Untuk menyelesaikan permasalahan tersebut penulis menggunakan Algoritma Clustering yang dibantu dengan Algoritma Euclidean Distance menggunakan _native_ di python
+- Mendapatkan hasil dari _clustering_ sehingga dapat mengelompokkan jenis jenis ikan
+- Evaluasi Metrik yang digunakan adalah dengan memberi batasan antara _cluster_ melimpah, _cluster_ cukup, dan _cluster_ kurang. Berdasarkan _tuning_ dari pengklasifikasian 3 kelompok
 
 
 
