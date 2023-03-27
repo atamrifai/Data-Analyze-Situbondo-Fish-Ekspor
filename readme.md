@@ -28,7 +28,13 @@ Menjelaskan tujuan dari pernyataan masalah:
 - Mendapatkan hasil dari _clustering_ sehingga dapat mengelompokkan jenis jenis ikan
 - Evaluasi Metrik yang digunakan adalah dengan memberi batasan antara _cluster_ melimpah, _cluster_ cukup, dan _cluster_ kurang. Berdasarkan _tuning_ dari pengklasifikasian 3 kelompok
 
+## _Data Understanding_
+Dataset yang digunakan dalam kasus ini berasalah dari sumber terpercaya skala nasional, yaitu BPPS Indonesia[3].
 
+### Variabel-variabel pada Data Ekspor Ikan 2017 Situbondo dataset adalah sebagai berikut:
+- Jenis Ikan : Merupakan ragam jenis ikan yang berhasil di ekspor pada tahun 2017.
+- TON : Merupakan total dari bobot yang di ekspor berdasarkan jenis ikan pada tahun 2017
+- RP (OOO) : Merupakan harga jual yang di dapat dari hasil ekspor pada tahun 2017
 
 
 
