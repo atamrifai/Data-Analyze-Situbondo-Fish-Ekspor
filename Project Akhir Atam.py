@@ -1,18 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# # Persiapan Import Data
-
-# ## Import Library
-
-# In[1]:
-
-
-import os
-from copy import deepcopy
-import numpy as np
-import pandas as pd
-from matplotlib import pyplot as plt
 
 
 # ## Import Data
