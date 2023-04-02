@@ -23,7 +23,23 @@ from matplotlib import pyplot as plt
 df = pd.read_excel (r'C:\Users\Atam Rifai S\OneDrive - ITPLN\OneDrive - Komputer\Script\Machine Learning\Dicoding\Dicoding Submission\Ekspor Ikan Kabupaten Situbondo 2016-2017.xls')
 df
 
-!
+# ## Melihat informasi Data
+
+# In[24]:
+
+
+df.info()
+
+
+# In[28]:
+
+
+Plottidf.describe()
+
+
+# ## Plotting Data Hasil Import
+
+# In[26]:
 
 
 f1 = df["TON"].values
