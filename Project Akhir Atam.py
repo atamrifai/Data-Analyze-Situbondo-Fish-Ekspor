@@ -70,28 +70,7 @@ plt.scatter(C[:,0], C[:,1], marker="*", s=100, c='g')
 
 # ### Membuat Area Clustering
 
-# In[39]:
-
-
-C_old = np.zeros(C.shape)
-
-clusters = np.zeros(len(X))
-
-error = dist(C, C_old, None)
-
-count = 1
-while (error !=0):
-    for i in range(len(X)):
-        distances = dist(X[i],C)
-        cluster = np.argmin(distances)
-        clusters[i] = cluster
-    
-    C_old = deepcopy(C)
-    
-    for i in range(k):
-        points = [X[j] for j in range(len(X)) if clusters[j]==i]
-        C[i] = np.mean(points, axis=0)
-    error = dist(C, C_old, None)
+!
 
 
 # In[104]:
