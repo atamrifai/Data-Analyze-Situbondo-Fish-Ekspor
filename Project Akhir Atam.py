@@ -31,7 +31,27 @@ df
 df.info()
 
 
-!
+# In[28]:
+
+
+Plottidf.describe()
+
+
+# ## Plotting Data Hasil Import
+
+# In[26]:
+
+
+f1 = df["TON"].values
+f2 = df["RP (000)"].values
+X = np.array(list(zip(f1, f2)))
+plt.scatter(f1, f2, c='Blue')
+
+
+# # Algoritma Clustering dengan Algoritma Euclidean Distance
+
+# ### Membuat rumus Algoritma Euclidean Distance
+
 # In[30]:
 
 
