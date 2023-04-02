@@ -15,13 +15,6 @@ import pandas as pd
 from matplotlib import pyplot as plt
 
 
-# ## Import Data
-
-# In[114]:
-
-
-df = pd.read_excel (r'C:\Users\Atam Rifai S\OneDrive - ITPLN\OneDrive - Komputer\Script\Machine Learning\Dicoding\Dicoding Submission\Ekspor Ikan Kabupaten Situbondo 2016-2017.xls')
-df
 
 
 # ## Melihat informasi Data
