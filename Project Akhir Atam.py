@@ -52,7 +52,20 @@ plt.scatter(f1, f2, c='Blue')
 
 # ### Membuat rumus Algoritma Euclidean Distance
 
-!
+# In[30]:
+
+
+def dist(a, b, ax=1):
+    return np.linalg.norm(a - b, axis=ax)
+
+
+# In[38]:
+
+
+k = 3
+C = X[0:3]
+plt.scatter(f1, f2, c="#5ab0c7")
+plt.scatter(C[:,0], C[:,1], marker="*", s=100, c='g')
 
 
 # ### Membuat Area Clustering
